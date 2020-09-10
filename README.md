@@ -1,24 +1,11 @@
-# members-table
+# VUE-application for displaying data in the form of a table.
 
-## Project setup
-```
-npm install
-```
+    The URL changes according to the current page and the application works with a direct link keeping the page number.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+    To sort by descending number, click on №.
+    
+    To sort alphabetically by name, click on the Name.
+    
+    To sort alphabetically by position, click on the Position.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[View](https://memberss-table.herokuapp.com/?page=1)
